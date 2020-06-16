@@ -7,4 +7,5 @@ public class User {
     private String name;
     private String password;
     private String shop;
+    private double money;
 }
